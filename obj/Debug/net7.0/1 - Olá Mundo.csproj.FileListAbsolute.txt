@@ -1,0 +1,15 @@
+C:\Users\plaud\Desktop\C#\1 - Olá Mundo\bin\Debug\net7.0\1 - Olá Mundo.exe
+C:\Users\plaud\Desktop\C#\1 - Olá Mundo\bin\Debug\net7.0\1 - Olá Mundo.deps.json
+C:\Users\plaud\Desktop\C#\1 - Olá Mundo\bin\Debug\net7.0\1 - Olá Mundo.runtimeconfig.json
+C:\Users\plaud\Desktop\C#\1 - Olá Mundo\bin\Debug\net7.0\1 - Olá Mundo.dll
+C:\Users\plaud\Desktop\C#\1 - Olá Mundo\bin\Debug\net7.0\1 - Olá Mundo.pdb
+C:\Users\plaud\Desktop\C#\1 - Olá Mundo\obj\Debug\net7.0\1 - Olá Mundo.csproj.AssemblyReference.cache
+C:\Users\plaud\Desktop\C#\1 - Olá Mundo\obj\Debug\net7.0\1 - Olá Mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plaud\Desktop\C#\1 - Olá Mundo\obj\Debug\net7.0\1 - Olá Mundo.AssemblyInfoInputs.cache
+C:\Users\plaud\Desktop\C#\1 - Olá Mundo\obj\Debug\net7.0\1 - Olá Mundo.AssemblyInfo.cs
+C:\Users\plaud\Desktop\C#\1 - Olá Mundo\obj\Debug\net7.0\1 - Olá Mundo.csproj.CoreCompileInputs.cache
+C:\Users\plaud\Desktop\C#\1 - Olá Mundo\obj\Debug\net7.0\1 - Olá Mundo.dll
+C:\Users\plaud\Desktop\C#\1 - Olá Mundo\obj\Debug\net7.0\refint\1 - Olá Mundo.dll
+C:\Users\plaud\Desktop\C#\1 - Olá Mundo\obj\Debug\net7.0\1 - Olá Mundo.pdb
+C:\Users\plaud\Desktop\C#\1 - Olá Mundo\obj\Debug\net7.0\1 - Olá Mundo.genruntimeconfig.cache
+C:\Users\plaud\Desktop\C#\1 - Olá Mundo\obj\Debug\net7.0\ref\1 - Olá Mundo.dll
